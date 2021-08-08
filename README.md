@@ -6,11 +6,12 @@
 
 Написать мне:
 
-[![Telegram](icons/telegram.png)](https://t.me/BuT1982)
-[![Mail](icons/mail.png)](mailto:abbat.den@gmail.com)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/morozov-qa/)
-[![HeadHunter](icons/hh.png)](https://spb.hh.ru/resume/2dd408eeff08d12e960039ed1f48796348374d)
-[![GitHub](icons/github.png)](https://github.com/BuT1982)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&LogoColor=27A0D9)](https://t.me/BuT1982)
+[![Mail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail)](abbat.den@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&LogoCOlor=007BB6)](https://www.linkedin.com/in/morozov-qa/)
+[![HeadHunter](https://img.shields.io/badge/-HeadHunter-090909?style=for-the-badge&logo=HeadHunter)](https://spb.hh.ru/resume/2dd408eeff08d12e960039ed1f48796348374d)
+[![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub)](https://github.com/BuT1982)
+
 
 
 
